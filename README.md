@@ -1,3 +1,3 @@
 # React-Docs
 
-## check the branches to see the content
+## use JSX in a project to be ready for development
