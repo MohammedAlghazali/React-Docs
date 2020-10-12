@@ -1,3 +1,3 @@
 # React-Docs
 
-## check the branches to see the content
+## How to allow using jsx
